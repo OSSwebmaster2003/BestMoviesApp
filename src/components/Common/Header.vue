@@ -53,7 +53,7 @@ const navigations = [
 
 <template>
   <Contaier>
-    <header class="w-full flex items-center justify-between">
+    <header class="w-full flex items-center justify-between z-10">
       <!-- logo  -->
       <div class="flex flex-col gap-2">
         <RouterLink to="/">
